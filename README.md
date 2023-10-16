@@ -1,5 +1,5 @@
 # Procrastinate
-Сайт-шутейка от Яндекс Практикума
+A joke website from Yandex Practicum.
 
 [Weblink](https://dmitry1210.github.io/Procrastinate/)
 
